@@ -3449,7 +3449,7 @@
         */
         function displayWarnings(){
             var l = options['li' + 'c' + 'enseK' + 'e' + 'y'];
-            var msgStyle = 'font-size: 15px;background:yellow;';
+            var msgStyle = 'fonts-size: 15px;background:yellow;';
 
             if(!isOK){
                 showError('error', 'Fullpage.js version 3 has changed its license to GPLv3 and it requires a `licenseKey` option. Read about it here:');
